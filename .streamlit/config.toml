@@ -2,8 +2,10 @@
 
 [theme]
 base="light"  # Use "light" for a light theme
-primaryColor="#00BFFF"  # Light blue color for primary elements
-backgroundColor="#FFFFFF"  # White background color
-secondaryBackgroundColor="#F0F8FF"  # Light blue background for sidebars
-textColor="#000000"  # Black text color for contrast
+primaryColor="#009c13"
+backgroundColor="#c5d9f7"
+secondaryBackgroundColor="#f7f7f7"
+textColor="#252020"
 font="sans serif"  # Use sans-serif font
+
+
